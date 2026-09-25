@@ -4,5 +4,5 @@ name: eShopOnWeb
 services:
   web:
     project: ./src/Web/Pages
-    language: csharp
+    language: csharpe
     host: appservice
